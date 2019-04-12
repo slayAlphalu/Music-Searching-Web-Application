@@ -1,0 +1,866 @@
+sex,singer_name,singer_loc,num_followers
+F,Chrislee,Chengdu,43543
+M,Jay Chou,Tai Wan,54654
+M,Leehom Wang,US,34543
+M,JJ Lin,Tai Wan,5555
+F,sam the sham and the pharaohs,NY,33422
+M,four tops,Seattle,43423
+F,the rolling stones,Texas,43543
+F,we five,DC,54654
+M,the righteous brothers,Toronto,34543
+F,petula clark,Tokyo,5555
+M,the beatles,LA,33422
+M,hermans hermits,London,43423
+F,elvis presley,Paris,43543
+M,the temptations,Berlin,54654
+F,the beach boys,NY,34543
+F,roger miller,Seattle,5555
+M,jewel akens,Texas,33422
+F,mel carter,DC,43423
+M,junior walker  the all stars,Toronto,43543
+M,sonny  cher,Tokyo,54654
+F,gary lewis  the playboys,LA,34543
+M,ramsey lewis trio,London,5555
+F,the supremes,Paris,33422
+F,the seekers,Berlin,43423
+M,jay and the americans,NY,43543
+F,the byrds,Seattle,54654
+M,sounds orchestral,Texas,34543
+M,barbara mason,DC,5555
+F,tom jones,Toronto,33422
+M,barry mcguire,Tokyo,43423
+F,the mccoys,LA,43543
+F,bert kaempfert,London,54654
+M,james brown,Paris,34543
+F,wayne fontana  the mindbenders,Berlin,5555
+M,shirley ellis,NY,33422
+M,barbara lewis,Seattle,43423
+F,the kingsmen,Texas,43543
+M,patti page,DC,54654
+F,bob dylan,Toronto,34543
+F,freddie and the dreamers,Tokyo,5555
+M,gerry and the pacemakers,LA,33422
+F,johnny rivers,London,43423
+M,horst jankowski,Paris,43543
+M,the yardbirds,Berlin,54654
+F,the moody blues,NY,34543
+M,shirley bassey,Seattle,5555
+F,billy joe royal,Texas,33422
+F,glenn yarbrough,DC,43423
+M,the dave clark five,Toronto,43543
+F,the beau brummels,Tokyo,54654
+M,ian whitcomb,LA,34543
+M,marvin gaye,London,5555
+F,the kinks,Paris,33422
+M,jackie deshannon,Berlin,43423
+F,sir douglas quintet,NY,43543
+F,sam cooke,Seattle,54654
+M,martha and the vandellas,Texas,34543
+F,the searchers,DC,5555
+M,dickey lee,Toronto,33422
+M,the turtles,Tokyo,43423
+F,the zombies,LA,43543
+M,peter and gordon,London,54654
+F,vic dana,Paris,34543
+F,patty duke,Berlin,5555
+M,the miracles,NY,33422
+F,brenda lee,Seattle,43423
+M,bobby goldsboro,Texas,43543
+M,the fortunes,DC,54654
+F,joe tex,Toronto,34543
+M,the animals,Tokyo,5555
+F,the lovin spoonful,LA,33422
+F,cher,London,43423
+M,little anthony and the imperials,Paris,43543
+F,the strangeloves,Berlin,54654
+M,sonny bono,NY,34543
+M,roy head,Seattle,5555
+F,jack jones,Texas,33422
+M,dino desi  billy,DC,43423
+F,the ad libs,Toronto,43543
+F,del shannon,Tokyo,54654
+M,ssgt barry sadler,LA,34543
+F,the association,London,5555
+M,the four tops,Paris,33422
+M,  the mysterians,Berlin,43423
+F,the monkees,NY,43543
+M,the mamas  the papas,Seattle,54654
+F,lovin spoonful,Texas,34543
+F,roger williams,DC,5555
+M,nancy sinatra,Toronto,33422
+F,jimmy ruffin,Tokyo,43423
+M,frank sinatra,LA,43543
+M,the young rascals,London,54654
+F,new vaudeville band,Paris,34543
+M,tommy james and the shondells,Berlin,5555
+F,percy sledge,NY,33422
+F,lou christie,Seattle,43423
+M,the troggs,Texas,43543
+F,paul revere  the raiders,DC,54654
+M,donovan,Toronto,34543
+M,bobby hebb,Tokyo,5555
+F,the happenings,LA,33422
+M,mitch ryder  the detroit wheels,London,43423
+F,the mindbenders,Paris,43543
+F,dusty springfield,Berlin,54654
+M,the capitols,NY,34543
+F,sandy posey,Seattle,5555
+M,the cyrkle,Texas,33422
+M,carla thomas,DC,43423
+F,the left banke,Toronto,43543
+M,the outsiders,Tokyo,54654
+F,tommy roe,LA,34543
+F,the hollies,London,5555
+M,james  bobby purify,Paris,33422
+F,bj thomas,Berlin,43423
+M,the standells,NY,43543
+M,bob lind,Seattle,54654
+F,simon  garfunkel,Texas,34543
+M,ray charles,DC,5555
+F,robert parker,Toronto,33422
+F,stevie wonder,Tokyo,43423
+M,the surfaris,LA,43543
+F,count five,London,54654
+M,the tbones,Paris,34543
+M,deon jackson,Berlin,5555
+F,crispian st peters,NY,33422
+M,ray conniff singers,Seattle,43423
+F,david houston,Texas,43543
+F,bobby darin,DC,54654
+M,the marvelettes,Toronto,34543
+F,neil diamond,Tokyo,5555
+M,lee dorsey,LA,33422
+M,dionne warwick,London,43423
+F,lou rawls,Paris,43543
+M,shadows of knight,Berlin,54654
+F,the sandpipers,NY,34543
+F,wilson pickett,Seattle,5555
+M,the shades of blue,Texas,33422
+F,the vogues,DC,43423
+M,los bravos,Toronto,43543
+M,slim harpo,Tokyo,54654
+F,chris montez,LA,34543
+M,bobby fuller four,London,5555
+F,herb alpert and the tijuana brass,Paris,33422
+F,lulu,Berlin,43423
+M,the box tops,NY,43543
+F,bobbie gentry,Seattle,54654
+M,the doors,Texas,34543
+M,frank  nancy sinatra,DC,5555
+F,frankie valli,Toronto,33422
+M,the music explosion,Tokyo,43423
+F,aretha franklin,LA,43543
+F,bobby vee,London,54654
+M,the buckinghams,Paris,34543
+F,arthur conley,Berlin,5555
+M,the soul survivors,NY,33422
+M,sam  dave,Seattle,43423
+F,jay  the techniques,Texas,43543
+M,every mothers son,DC,54654
+F,strawberry alarm clock,Toronto,34543
+F,vikki carr,Tokyo,5555
+M,buffalo springfield,LA,33422
+F,brenton wood,London,43423
+M,engelbert humperdinck,Paris,43543
+M,marvin gaye  tammi terrell,Berlin,54654
+F,jefferson airplane,NY,34543
+M,the esquires,Seattle,5555
+F,van morrison,Texas,33422
+F,procol harum,DC,43423
+M,the casinos,Toronto,43543
+F,bobby vinton,Tokyo,54654
+M,the tremeloes,LA,34543
+M,ed ames,London,5555
+F,the 5th dimension,Paris,33422
+M,scott mckenzie,Berlin,43423
+F,the cowsills,NY,43543
+F,jackie wilson,Seattle,54654
+M,five americans,Texas,34543
+F,lesley gore,DC,5555
+M,blues magoos,Toronto,33422
+M,the easybeats,Tokyo,43423
+F,the barkays,LA,43543
+M,the spencer davis group,London,54654
+F,the hombres,Paris,34543
+F,the grass roots,Berlin,5555
+M,peaches  herb,NY,33422
+F,booker t  the mgs,Seattle,43423
+M,aaron neville,Texas,43543
+M,keith,DC,54654
+F,the royal guardsmen,Toronto,34543
+M,janis ian,Tokyo,5555
+F,robert knight,LA,33422
+F,peter paul and mary,London,43423
+M,bill cosby,Paris,43543
+F,the electric prunes,Berlin,54654
+M,the who,NY,34543
+M,paul mauriat,Seattle,5555
+F,otis redding,Texas,33422
+M,the rascals,DC,43423
+F,cream,Toronto,43543
+F,herb alpert,Tokyo,54654
+M,hugo montenegro,LA,34543
+F,archie bell  the drells,London,5555
+M,jeannie c riley,Paris,33422
+M,o c smith,Berlin,43423
+F,gary puckett  the union gap,NY,43543
+M,hugh masekela,Seattle,54654
+F,sly  the family stone,Texas,34543
+F,cliff nobles,DC,5555
+M,the delfonics,Toronto,33422
+F,john fred  his playboy band,Tokyo,43423
+M,classics iv,LA,43543
+M,merrilee rush,London,54654
+F,georgie fame,Paris,34543
+M,mary hopkin,Berlin,5555
+F,steppenwolf,NY,33422
+F,the intruders,Seattle,43423
+M,1910 fruitgum company,Texas,43543
+F,sergio mendes,DC,54654
+M,johnny nash,Toronto,34543
+M,ohio express,Tokyo,5555
+F,the crazy world of arthur brown,LA,33422
+M,gene  debbe,London,43423
+F,mason williams,Paris,43543
+F,clarence carter,Berlin,54654
+M,the okaysions,NY,34543
+F,the lemon pipers,Seattle,5555
+M,friend  lover,Texas,33422
+M,richard harris,DC,43423
+F,jose feliciano,Toronto,43543
+M,people,Tokyo,54654
+F,status quo,LA,34543
+F,blue cheer,London,5555
+M,the bee gees,Paris,33422
+F,the fireballs,Berlin,43423
+M,the dells,NY,43543
+M,willie mitchell,Seattle,54654
+F,the human beinz,Texas,34543
+M,sam and dave,DC,5555
+F,tommy boyce  bobby hart,Toronto,33422
+F,the lettermen,Tokyo,43423
+M,the irish rovers,LA,43543
+F,vanilla fudge,London,54654
+M,the foundations,Paris,34543
+M,sweet inspirations,Berlin,5555
+F,the mills brothers,NY,33422
+M,the chambers brothers,Seattle,43423
+F,manfred mann,Texas,43543
+F,shorty long,DC,54654
+M,gary lewis and the playboys,Toronto,34543
+F,big brother and the holding company,Tokyo,5555
+M,creedence clearwater revival,LA,33422
+M,the american breed,London,43423
+F,jerry butler,Paris,43543
+M,the archies,Berlin,54654
+F,three dog night,NY,34543
+F,henry mancini,Seattle,5555
+M,the youngbloods,Texas,33422
+F,the friends of distinction,DC,43423
+M,jr walker  the all stars,Toronto,43543
+M,the isley brothers,Tokyo,54654
+F,oliver,LA,34543
+M,the beatles with billy preston,London,5555
+F,zager  evans,Paris,33422
+F,blood sweat  tears,Berlin,43423
+M,andy kim,NY,43543
+F,smith,Seattle,54654
+M,johnny cash,Texas,34543
+M,bobby sherman,DC,5555
+F,mercy,Toronto,33422
+M,the guess who,Tokyo,43423
+F,the watts 103rd street rhythm band,LA,43543
+F,spiral starecase,London,54654
+M,sammy davis jr,Paris,34543
+F,mama cass elliot,Berlin,5555
+M,the ventures,NY,33422
+M,glen campbell,Seattle,43423
+F,ray stevens,Texas,43543
+M,tyrone davis,DC,54654
+F,the winstons,Toronto,34543
+F,checkmates ltd,Tokyo,5555
+M,edwin starr,LA,33422
+F,new colony six,London,43423
+M,motherlode,Paris,43543
+M,harry nilsson,Berlin,54654
+F,johnny maestro  the brooklyn bridge,NY,34543
+M,joe simon,Seattle,5555
+F,the flying machine,Texas,33422
+F,tony joe white,DC,43423
+M,kenny rogers  the first edition,Toronto,43543
+F,joe south,Tokyo,54654
+M,the cuff links,LA,34543
+M,bob seger system,London,5555
+F,the supremes  the temptations,Paris,33422
+M,crazy elephant,Berlin,43423
+F,the originals,NY,43543
+F,edwin hawkins singers,Seattle,54654
+M,david ruffin,Texas,34543
+F,the carpenters,DC,5555
+M,diana ross,Toronto,33422
+M,the jackson 5,Tokyo,43423
+F,rare earth,LA,43543
+M,freda payne,London,54654
+F,bread,Paris,34543
+F,vanity fare,Berlin,5555
+M,dawn,NY,33422
+F,eric burdon  war,Seattle,43423
+M,five stairsteps,Texas,43543
+M,norman greenbaum,DC,54654
+F,melanie,Toronto,34543
+M,the moments,Tokyo,5555
+F,the poppy family,LA,33422
+F,free,London,43423
+M,sugarloaf,Paris,43543
+F,blues image,Berlin,54654
+M,shocking blue,NY,34543
+M,john lennon,Seattle,5555
+F,brook benton,Texas,33422
+M,chairmen of the board,DC,43423
+F,edison lighthouse,Toronto,43543
+F,anne murray,Tokyo,54654
+M,marmalade,LA,34543
+F,eddie holman,London,5555
+M,the jaggerz,Paris,33422
+M,alive n kickin,Berlin,43423
+F,badfinger,NY,43543
+M,charles wright  the watts 103rd street rhythm band,Seattle,54654
+F,mungo jerry,Texas,34543
+F,r dean taylor,DC,5555
+M,chicago,Toronto,33422
+F,frijid pink,Tokyo,43423
+M,white plains,LA,43543
+M,the brotherhood of man,London,54654
+F,mark lindsay,Paris,34543
+M,james taylor,Berlin,5555
+F,gene chandler,NY,33422
+F,santana,Seattle,43423
+M,ronnie dyson,Texas,43543
+F,the spinners,DC,54654
+M,bobbi martin,Toronto,34543
+M,mountain,Tokyo,5555
+F,ike  tina turner,LA,33422
+M,joe cocker,London,43423
+F,tee set,Paris,43543
+F,christie,Berlin,54654
+M,100 proof aged in soul,NY,34543
+F,the ides of march,Seattle,5555
+M,the pipkins,Texas,33422
+M,robin mcnamara,DC,43423
+F,pacific gas  electric,Toronto,43543
+M,crosby stills nash  young,Tokyo,54654
+F,the new seekers,LA,34543
+F,bb king,London,5555
+M,rod stewart,Paris,33422
+F,carole king,Berlin,43423
+M,the osmonds,NY,43543
+M,bee gees,Seattle,54654
+F,donny osmond,Texas,34543
+M,john denver,DC,5555
+F,tony orlando and dawn,Toronto,33422
+F,janis joplin,Tokyo,43423
+M,al green,LA,43543
+F,honey cone,London,54654
+M,the undisputed truth,Paris,34543
+M,cornelius brothers  sister rose,Berlin,5555
+F,jean knight,NY,33422
+M,lee michaels,Seattle,43423
+F,joan baez,Texas,43543
+F,paul  linda mccartney,DC,54654
+M,bill withers,Toronto,34543
+F,five man electrical band,Tokyo,5555
+M,murray head  the trindad singers,LA,33422
+M,the free movement,London,43423
+F,jerry reed,Paris,43543
+M,george harrison,Berlin,54654
+F,ocean,NY,34543
+F,daddy dewdrop,Seattle,5555
+M,sammi smith,Texas,33422
+F,gordon lightfoot,DC,43423
+M,lynn anderson,Toronto,43543
+M,hamilton joe frank  reynolds,Tokyo,54654
+F,ringo starr,LA,34543
+M,nitty gritty dirt band,London,5555
+F,the fuzz,Paris,33422
+F,the dramatics,Berlin,43423
+M,carly simon,NY,43543
+F,helen reddy,Seattle,54654
+M,the partridge family,Texas,34543
+M,tommy james,DC,5555
+F,the bells,Toronto,33422
+M,the stampeders,Tokyo,43423
+F,lobo,LA,43543
+F,paul mccartney,London,54654
+M,brewer  shipley,Paris,34543
+F,8th day,Berlin,5555
+M,delaney  bonnie  friends,NY,33422
+M,freddie hart,Seattle,43423
+F,the honey cone,Texas,43543
+M,mac and katie kissoon,DC,54654
+F,andy williams,Toronto,34543
+F,cat stevens,Tokyo,5555
+M,the beginning of the end,LA,33422
+F,olivia newtonjohn,London,43423
+M,king floyd,Paris,43543
+M,matthews southern comfort,Berlin,54654
+F,judy collins,NY,34543
+M,dave edmunds,Seattle,5555
+F,denise lasalle,Texas,33422
+F,the buoys,DC,43423
+M,isaac hayes,Toronto,43543
+F,gladys knight  the pips,Tokyo,54654
+M,paul stookey,LA,34543
+M,richie havens,London,5555
+F,wadsworth mansion,Paris,33422
+M,brenda  the tabulations,Berlin,43423
+F,perry como,NY,43543
+F,roberta flack,Seattle,54654
+M,gilbert osullivan,Texas,34543
+F,don mclean,DC,5555
+M,mac davis,Toronto,33422
+M,wayne newton,Tokyo,43423
+F,looking glass,LA,43543
+M,the chilites,London,54654
+F,gallery,Paris,34543
+F,chuck berry,Berlin,5555
+M,luther ingram,NY,33422
+F,neil young,Seattle,43423
+M,the stylistics,Texas,43543
+M,the staple singers,DC,54654
+F,michael jackson,Toronto,34543
+M,robert john,Tokyo,5555
+F,billy preston,LA,33422
+F,war,London,43423
+M,mouth  macneal,Paris,43543
+F,america,Berlin,54654
+M,hot butter,NY,34543
+M,the main ingredient,Seattle,5555
+F,climax,Texas,33422
+M,raspberries,DC,43423
+F,the ojays,Toronto,43543
+F,jonathan edwards,Tokyo,54654
+M,mel and tim,LA,34543
+F,elton john,London,5555
+M,daniel boone,Paris,33422
+M,dennis coffey,Berlin,43423
+F,arlo guthrie,NY,43543
+M,ricky nelson,Seattle,54654
+F,betty wright,Texas,34543
+F,argent,DC,5555
+M,the chakachas,Toronto,33422
+F,donna fargo,Tokyo,43423
+M,t rex,LA,43543
+M,paul simon,London,54654
+F,roberta flack  donny hathaway,Paris,34543
+M,derek and the dominos,Berlin,5555
+F,dr hook  the medicine show,NY,33422
+F,jim croce,Seattle,43423
+M,commander cody and his lost planet airmen,Texas,43543
+F,apollo 100,DC,54654
+M,charley pride,Toronto,34543
+M,alice cooper,Tokyo,5555
+F,jimmy castor bunch,LA,33422
+M,redbone,London,43423
+F,curtis mayfield,Paris,43543
+F,jerry butler  brenda lee eager,Berlin,54654
+M,harry chapin,NY,34543
+F,beverly bremers,Seattle,5555
+M,todd rundgren,Texas,33422
+M,sailcat,DC,43423
+F,original cast of godspell,Toronto,43543
+M,yes,Tokyo,54654
+F,jackson browne,LA,34543
+F,the detroit emeralds,London,5555
+M,rick springfield,Paris,33422
+F,the hillside singers,Berlin,43423
+M,love unlimited,NY,43543
+M,paul mccartney  wings,Seattle,54654
+F,kris kristofferson,Texas,34543
+M,vicki lawrence,DC,5555
+F,clint holmes,Toronto,33422
+F,stories,Tokyo,43423
+M,billy paul,LA,43543
+F,edgar winter group,London,54654
+M,dobie gray,Paris,34543
+M,sweet,Berlin,5555
+F,sylvia,NY,33422
+M,grand funk railroad,Seattle,43423
+F,dr john,Texas,43543
+F,skylark,DC,54654
+M,maureen mcgovern,Toronto,34543
+F,stealers wheel,Tokyo,5555
+M,barry white,LA,33422
+M,eddie kendricks,London,43423
+F,king harvest,Paris,43543
+M,bobby boris pickett and the cryptkickers,Berlin,54654
+F,bloodstone,NY,34543
+F,seals and crofts,Seattle,5555
+M,the doobie brothers,Texas,33422
+F,jermaine jackson,DC,43423
+M,new york city,Toronto,43543
+M,deep purple,Tokyo,54654
+F,charlie rich,LA,34543
+M,loggins and messina,London,5555
+F,hurricane smith,Paris,33422
+F,johnnie taylor,Berlin,43423
+M,eric weissberg  steve mandell,NY,43543
+F,bw stevenson,Seattle,54654
+M,edward bear,Texas,34543
+M,steely dan,DC,5555
+F,focus,Toronto,33422
+M,bette midler,Tokyo,43423
+F,timmy thomas,LA,43543
+F,tower of power,London,54654
+M,the allman brothers band,Paris,34543
+F,ohio players,Berlin,5555
+M,blue ridge rangers,NY,33422
+M,jud strunk,Seattle,43423
+F,deodato,Texas,43543
+M,pink floyd,DC,54654
+F,the pointer sisters,Toronto,34543
+F,david bowie,Tokyo,5555
+M,albert hammond,LA,33422
+F,barbra streisand,London,43423
+M,terry jacks,Paris,43543
+M,love unlimited orchestra,Berlin,54654
+F,mfsb,NY,34543
+M,kool  the gang,Seattle,5555
+F,maria muldaur,Texas,33422
+F,al wilson,DC,43423
+M,jim stafford,Toronto,43543
+F,david essex,Tokyo,54654
+M,blue magic,LA,34543
+M,blue swede,London,5555
+F,bo donaldson and the heywoods,Paris,33422
+M,paul mccartney and wings,Berlin,43423
+F,paul anka,NY,43543
+F,george mccrae,Seattle,54654
+M,steve miller band,Texas,34543
+F,the hues corporation,DC,5555
+M,brownsville station,Toronto,33422
+M,paper lace,Tokyo,43423
+F,dionne warwick  the spinners,LA,43543
+M,marvin hamlisch,London,54654
+F,abba,Paris,34543
+F,carly simon  james taylor,Berlin,5555
+M,joni mitchell,NY,33422
+F,rufus  chaka khan,Seattle,43423
+M,william devaughn,Texas,43543
+M,johnny bristol,DC,54654
+F,mocedades,Toronto,34543
+M,bachmanturner overdrive,Tokyo,5555
+F,golden earring,LA,33422
+F,dave loggins,London,43423
+M,wet willie,Paris,43543
+F,bobby womack,Berlin,54654
+M,eric clapton,NY,34543
+M,mike oldfield,Seattle,5555
+F,donny and marie osmond,Texas,33422
+M,tom t hall,DC,43423
+F,the guess who featuring wolfman jack,Toronto,43543
+F,sister janet mead,Tokyo,54654
+M,lamont dozier,LA,34543
+F,diana ross  marvin gaye,London,5555
+M,the first class,Paris,33422
+M,fancy,Berlin,43423
+F,captain  tennille,NY,43543
+M,freddy fender,Seattle,54654
+F,earth wind  fire,Texas,34543
+F,neil sedaka,DC,5555
+M,eagles,Toronto,33422
+F,minnie riperton,Tokyo,43423
+M,carl douglas,LA,43543
+M,average white band,London,54654
+F,van mccoy  the soul city symphony,Paris,34543
+M,labelle,Berlin,5555
+F,major harris,NY,33422
+F,ozark mountain daredevils,Seattle,43423
+M,pilot,Texas,43543
+F,barry manilow,DC,54654
+M,michael martin murphey,Toronto,34543
+M,jessi colter,Tokyo,5555
+F,wings,LA,33422
+M,10cc,London,43423
+F,billy swan,Paris,43543
+F,morris albert,Berlin,54654
+M,sammy johns,NY,34543
+F,linda ronstadt,Seattle,5555
+M,bazuka,Texas,33422
+M,the blackbyrds,DC,43423
+F,melissa manchester,Toronto,43543
+M,phoebe snow,Tokyo,54654
+F,ace,LA,34543
+F,bt express,London,5555
+M,styx,Paris,33422
+F,grand funk,Berlin,43423
+M,carol douglas,NY,43543
+M,kc and the sunshine band,Seattle,54654
+F,paul anka  odia coates,Texas,34543
+M,bad company,DC,5555
+F,orleans,Toronto,33422
+F,gloria gaynor,Tokyo,43423
+M,donny  marie osmond,LA,43543
+F,the three degrees,London,54654
+M,queen,Paris,34543
+M,electric light orchestra,Berlin,5555
+F,rufus,NY,33422
+M,mike post,Seattle,43423
+F,tavares,Texas,43543
+F,jethro tull,DC,54654
+M,leo sayer,Toronto,34543
+F,neil sedaka  elton john,Tokyo,5555
+M,dwight twilley band,LA,33422
+M,amazing rhythm aces,London,43423
+F,discotex and the sexolettes,Paris,43543
+M,elton john  kiki dee,Berlin,54654
+F,the four seasons,NY,34543
+F,wild cherry,Seattle,5555
+M,the manhattans,Texas,33422
+F,gary wright,DC,43423
+M,walter murphy  the big apple band,Toronto,43543
+M,hall  oates,Tokyo,54654
+F,starland vocal band,LA,34543
+M,silver convention,London,5555
+F,andrea true connection,Paris,33422
+F,dorothy moore,Berlin,43423
+M,the sylvers,NY,43543
+F,england dan  john ford coley,Seattle,54654
+M,hot chocolate,Texas,34543
+M,nazareth,DC,5555
+F,commodores,Toronto,33422
+M,maxine nightingale,Tokyo,43423
+F,rhythm heritage,LA,43543
+F,starbuck,London,54654
+M,dr hook,Paris,34543
+F,the bellamy brothers,Berlin,5555
+M,vicki sue robinson,NY,33422
+M,eric carmen,Seattle,43423
+F,donna summer,Texas,43543
+M,henry gross,DC,54654
+F,boz scaggs,Toronto,34543
+F,peter frampton,Tokyo,5555
+M,aerosmith,LA,33422
+F,fleetwood mac,London,43423
+M,cliff richard,Paris,43543
+M,elvin bishop,Berlin,54654
+F,c w mccall,NY,34543
+M,john sebastian,Seattle,5555
+F,the brothers johnson,Texas,33422
+F,bay city rollers,DC,43423
+M,wing and a prayer fife and drum corps,Toronto,43543
+F,george benson,Tokyo,54654
+M,silver,LA,34543
+M,keith carradine,London,5555
+F,harold melvin  the blue notes,Paris,33422
+M,john travolta,Berlin,43423
+F,jefferson starship,NY,43543
+F,foghat,Seattle,54654
+M,thin lizzy,Texas,34543
+F,candi staton,DC,5555
+M,parliament,Toronto,33422
+M,larry groce,Tokyo,43423
+F,kiss,LA,43543
+M,rick dees  his cast of idiots,London,54654
+F,andy gibb,Paris,34543
+F,the emotions,Berlin,5555
+M,hot,NY,33422
+F,kenny nolan,Seattle,43423
+M,thelma houston,Texas,43543
+M,rita coolidge,DC,54654
+F,alan oday,Toronto,34543
+M,mary macgregor,Tokyo,5555
+F,jimmy buffett,LA,33422
+F,pablo cruise,London,43423
+M,peter mccann,Paris,43543
+F,bill conti deetta little and nelson pigford,Berlin,54654
+M,rose royce,NY,34543
+M,marilyn mccoo  billy davis jr,Seattle,5555
+F,david soul,Texas,33422
+M,stephen bishop,DC,43423
+F,foreigner,Toronto,43543
+F,climax blues band,Tokyo,54654
+M,jennifer warnes,LA,34543
+F,natalie cole,London,5555
+M,manfred manns earth band,Paris,33422
+M,atlanta rhythm section,Berlin,43423
+F,the jacksons,NY,43543
+M,brick,Seattle,54654
+F,kenny rogers,Texas,34543
+F,shaun cassidy,DC,5555
+M,crosby stills  nash,Toronto,33422
+F,andrew gold,Tokyo,43423
+M,heart,LA,43543
+M,bob seger  the silver bullet band,London,54654
+F,the marshall tucker band,Paris,34543
+M,kansas,Berlin,5555
+F,burton cummings,NY,33422
+F,ronnie milsap,Seattle,43423
+M,sanfordtownsend band,Texas,43543
+F,dean friedman,DC,54654
+M,meco,Toronto,34543
+M,the floaters,Tokyo,5555
+F,lord david dundas,LA,33422
+M,supertramp,London,43423
+F,dr buzzards original savannah band,Paris,43543
+F,al stewart,Berlin,54654
+M,heatwave,NY,34543
+F,london symphony orchestra,Seattle,5555
+M,cj  company,Texas,33422
+M,debby boone,DC,43423
+F,exile,Toronto,43543
+M,player,Tokyo,54654
+F,a taste of honey,LA,34543
+F,paul davis,London,5555
+M,john travolta  olivia newtonjohn,Paris,33422
+F,samantha sang,Berlin,43423
+M,billy joel,NY,43543
+M,yvonne elliman,Seattle,54654
+F,chic,Texas,34543
+M,chuck mangione,DC,5555
+F,nick gilder,Toronto,33422
+F,bonnie tyler,Tokyo,43423
+M,gerry rafferty,LA,43543
+F,johnny mathis  deniece williams,London,54654
+M,peter brown,Paris,34543
+M,meat loaf,Berlin,5555
+F,raydio,NY,33422
+M,dan hill,Seattle,43423
+F,walter egan,Texas,43543
+F,randy newman,DC,54654
+M,john paul young,Toronto,34543
+F,david gates,Tokyo,5555
+M,jay ferguson,LA,33422
+M,toby beau,London,43423
+F,the trammps,Paris,43543
+M,ltd,Berlin,54654
+F,dolly parton,NY,34543
+F,evelyn champagne king,Seattle,5555
+M,little river band,Texas,33422
+F,eddie money,DC,43423
+M,lynyrd skynyrd,Toronto,43543
+M,crystal gayle,Tokyo,54654
+F,patti smith group,LA,34543
+M,robert palmer,London,5555
+F,rick james,Paris,33422
+F,bob welch,Berlin,43423
+M,leblanc  carr,NY,43543
+F,santa esmeralda,Seattle,54654
+M,michael johnson,Texas,34543
+M,kenny loggins  stevie nicks,DC,5555
+F,chris rea,Toronto,33422
+M,foxy,Tokyo,43423
+F,joe walsh,LA,43543
+F,alicia bridges,London,54654
+M,high inergy,Paris,34543
+F,odyssey,Berlin,5555
+M,boston,NY,33422
+M,eruption,Seattle,43423
+F,the knack,Texas,43543
+M,village people,DC,54654
+F,anita ward,Toronto,34543
+F,david naughton,Tokyo,5555
+M,blondie,LA,33422
+F,neil diamond  barbra streisand,London,43423
+M,amii stewart,Paris,43543
+M,suzi quatro  chris norman,Berlin,54654
+F,randy vanwarmer,NY,34543
+M,cheap trick,Seattle,5555
+F,leif garrett,Texas,33422
+F,donna summer and brooklyn dreams,DC,43423
+M,nicolette larson,Toronto,43543
+F,bonnie pointer,Tokyo,54654
+M,toto,LA,34543
+M,sister sledge,London,5555
+F,frank mills,Paris,33422
+M,the charlie daniels band,Berlin,43423
+F,john stewart,NY,43543
+F,earth wind  fire  the emotions,Seattle,54654
+M,bobby caldwell,Texas,34543
+F,ace frehley,DC,5555
+M,dire straits,Toronto,33422
+M,rickie lee jones,Tokyo,43423
+F,mcfadden  whitehead,LA,43543
+M,cheryl lynn,London,54654
+F,patrick hernandez,Paris,34543
+F,ian matthews,Berlin,5555
+M,gino vannelli,NY,33422
+F,gq,Seattle,43423
+M,roger voudouris,Texas,43543
+M,ambrosia,DC,54654
+F,eddie rabbitt,Toronto,34543
+M,rex smith,Tokyo,5555
+F,the babys,LA,33422
+F,instant funk,London,43423
+M,van halen,Paris,43543
+F,nigel olsson,Berlin,54654
+M,firefall,NY,34543
+M,lipps inc,Seattle,5555
+F,rupert holmes,Texas,33422
+M,gary numan,DC,43423
+F,smokey robinson,Toronto,43543
+F,air supply,Tokyo,54654
+M,christopher cross,LA,34543
+F,billy preston and syreeta,London,5555
+M,teri desario  kc,Paris,33422
+M,robbie dupree,Berlin,43423
+F,kenny loggins,NY,43543
+M,kenny rogers  kim carnes,Seattle,54654
+F,dan fogelberg,Texas,34543
+F,the sos band,DC,5555
+M,barbra streisand  donna summer,Toronto,33422
+F,kim carnes,Tokyo,43423
+M,m,LA,43543
+M,the pretenders,London,54654
+F,ray goodman  brown,Paris,34543
+M,shalamar,Berlin,5555
+F,rocky burnette,NY,33422
+F,bob seger and the silver bullet band,Seattle,43423
+M,jd souther,Texas,43543
+F,pete townshend,DC,54654
+M,steve forbert,Toronto,34543
+M,tom petty and the heartbreakers,Tokyo,5555
+F,irene cara,LA,33422
+M,bob seger,London,43423
+F,benny mardones,Paris,43543
+F,pure prairie league,Berlin,54654
+M,genesis,NY,34543
+F,the dirt band,Seattle,5555
+M,neil  dara sedaka,Texas,33422
+M,charlie dore,DC,43423
+F,mickey gilley,Toronto,43543
+M,pat benatar,Tokyo,54654
+F,prince,LA,34543
+F,charlie daniels band,London,5555
+M,diana ross  lionel richie,Paris,33422
+F,reo speedwagon,Berlin,43423
+M,joey scarbury,NY,43543
+M,sheena easton,Seattle,54654
+F,juice newton,Texas,34543
+M,grover washington jr  bill withers,DC,5555
+F,stars on 45,Toronto,33422
+F,barbra streisand  barry gibb,Tokyo,43423
+M,the oak ridge boys,LA,43543
+F,the manhattan transfer,London,54654
+M,marty balin,Paris,34543
+M,champaign,Berlin,5555
+F,the greg kihn band,NY,33422
+M,the alan parsons project,Seattle,43423
+F,bruce springsteen,Texas,43543
+F,franke and the knockouts,DC,54654
+M,terri gibbs,Toronto,34543
+F,tierra,Tokyo,5555
+M,dottie west  kenny rogers,LA,33422
+M,journey,London,43423
+F,the police,Paris,43543
+M,gary us bonds,Berlin,54654
+F,stevie nicks  tom petty,NY,34543
+F,delbert mcclinton,Seattle,5555
+M,john cougar,Texas,33422
+F,steve winwood,DC,43423
+M,billy squier,Toronto,43543
+M,alabama,Tokyo,54654
+F,george duke  stanley clarke,LA,34543
+M,john schneider,London,5555
+F,olivia newtonjohn  cliff richard,Paris,33422
+F,devo,Berlin,43423
+M,rosanne cash,NY,43543
