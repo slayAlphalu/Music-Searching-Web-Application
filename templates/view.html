@@ -1,0 +1,10 @@
+<!doctype html>
+<title>Search Results</title>
+
+<div class=page>
+  <h1>Search Results</h1>
+  {% for table in tables %}
+    <h2>{{titles[loop.index]}}</h2>
+    {{ table|safe }}
+  {% endfor %}
+</div>

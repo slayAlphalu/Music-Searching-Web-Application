@@ -1,0 +1,35 @@
+<html>
+  <style>
+    body{
+      font-size: 20pt;
+      font-family: arial;
+    }
+    button {
+      font-size: 15pt;
+      font-family: arial;
+    }
+  </style>
+
+<title>Search Singer Results</title>
+<body>
+
+<!-- <body style="background: url(https://github.com/slayAlphalu/Music-Searching-Web-Application/blob/master/cu.JPG?raw=true);background-size: 100% 100%;color: cornsilk"> -->
+  <h1>Search Results</h1>
+
+  <table>
+    <thead><tr><th>Singer Name</th></tr></thead>
+    <tbody>
+      <form method="POST">
+      {% for n in range(0, search_result|length) %}
+        <tr><td>{{search_result[n]}}</td>
+          <td><button name="name" value="{{search_result[n]}}" type="submit" formaction="/singer_song">Songs of this singer</button></td></tr>
+      {% endfor %}
+    </form>
+    </tbody>
+  </table>
+
+  <p><a href="/">Back to Main Page</a></p>
+</body>
+
+
+</html>

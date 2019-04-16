@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <body>
+
+  <!-- <body style="background: url(https://github.com/slayAlphalu/Music-Searching-Web-Application/blob/master/cu.JPG?raw=true);background-size: 100% 100%;color: cornsilk"> -->
+    <title>Comments for {{name}}</title>
+
+  <div class=page>
+    <h1>Comments for {{name}}</h1>
+    {% for table in tables %}
+      <h2>{{titles[loop.index]}}</h2>
+      {{ table|safe }}
+    {% endfor %}
+  </div>
+
+<h3>Add your comment here!!</h3>
+
+<form method="POST" action="/search_comment">
+  <p><input type="text" name="comment"> <button name="name" value="{{name}}" type="submit">Add Comment</button></p>
+</form>
+
+<p><a href="/">Back to Main Page</a></p>
+<!-- <p>Click the "Try it" button to get the text in the text field.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myText").value;
+  document.getElementById("demo").innerHTML = x;
+}
+</script> -->
+
+</body>
+</html>

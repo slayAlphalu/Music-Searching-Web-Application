@@ -1,0 +1,26 @@
+<html>
+  <style>
+    body{
+      font-size: 15pt;
+      font-family: arial;
+    }
+  </style>
+<body>
+
+<!-- <body style="background: url(https://github.com/slayAlphalu/Music-Searching-Web-Application/blob/master/cu.JPG?raw=true);background-size: 100% 100%;color: cornsilk"> -->
+  <h1>All songs of {{name}}</h1>
+
+  <form method="POST">
+    {% for n in range(0, search_result|length) %}
+    <p>{{search_result[n]}}<br>
+      <button name="name" value="{{search_result[n]}}" type="submit" formaction="/search_comment">Comments of this song</button>
+      <button name="name" value="{{search_result[n]}}" type="submit" formaction="/similar_songs">Similar songs</button>
+    <p>
+    {% endfor %}
+  </form>
+  <p><a href="/">Back to Main Page</a></p>
+
+</body>
+
+
+</html>
