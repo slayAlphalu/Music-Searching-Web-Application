@@ -1,5 +1,5 @@
 # Music-Searching-Web-Application
-Using google cloud as engine. Combine the power of flask and python to build a virtual searching engine.
+Using google cloud as engine. Combine the power of flask and python to build a music virtual searching engine.
 
 # Overview of Project 1
 
